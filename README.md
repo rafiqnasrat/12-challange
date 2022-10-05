@@ -1,10 +1,10 @@
 # 12-challange
 
-i insatl npm 
-also that inquriar
+i instal npm 
+also that inquirer
 console.table also i i for this project
 first i make one file the file name is schema 
-insaid the file i make 3 table the hav relshanship with eich ather
+inside the file i make 3 table the hav relshanship with each aether
 
 
 
@@ -18,7 +18,7 @@ insaid the file i make 3 table the hav relshanship with eich ather
 npm i
 ```
 
-## musql
+## mysql
 
 ```
 npm console.table
