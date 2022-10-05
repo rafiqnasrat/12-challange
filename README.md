@@ -11,6 +11,19 @@ insaid the file i make 3 table the hav relshanship with eich ather
 ## install
 
 ```
+mysql
+```
+
+## musql
+
+```
+npm i inquirer@8.2.4
+```
+
+
+## install
+
+```
 npm i
 ```
 
